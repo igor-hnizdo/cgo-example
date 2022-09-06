@@ -11,7 +11,9 @@ Assuming a [correctly configured](https://golang.org/doc/install) Go
 toolchain:
 
 ```shell
-go get github.com/cpliakas/cgo-example
+git clone https://github.com/igor-hnizdo/cgo-example
+cd cgo-example
+go build
 ```
 
 ## Usage
